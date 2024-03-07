@@ -1,0 +1,21 @@
+[
+{"header_2_": "Learning objectives"},
+{"header_2_": "Setting up GraphQL with Python (Flask)"},
+{"header_2_": "Up and running with a simple Flask app"},
+{"header_2_": "Writing the GraphQL Schema"},
+{"header_2_": "Wiring up Flask server and GraphQL with Ariadne library"},
+{"header_2_": "Testing our server"},
+{"header_2_": "Mutation "},
+{"header_2_": "Final thoughts"},
+{"header_2_": "Recommended"},
+{"header_3_": "Creating a new python virtual environment"},
+{"header_3_": "Installing dependencies"},
+{"header_3_": "Adding a database"},
+{"header_3_": "Creating a model"},
+{"header_3_": "Query all posts "},
+{"header_3_": "Writing our first Resolver "},
+{"header_3_": "Querying a single post by id"},
+{"header_3_": "Creating a new post "},
+{"header_3_": "Updating a post"},
+{"header_3_": "Deleting a post"}
+]
